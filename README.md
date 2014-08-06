@@ -1,9 +1,6 @@
-psd_to_html_tutorial
-
-reference: http://www.1stwebdesigner.com/wordpress/psd-to-html-tutorial-code-photoshop/
-====================
-
 PSD to HTML Tutorial: Code a Photoshop File to a Working Website
+====================
+reference: http://www.1stwebdesigner.com/wordpress/psd-to-html-tutorial-code-photoshop/
 
 Step 1: Preparation for the PSD to HTML Tutorial
 Step 2: Getting Files Ready
